@@ -1,0 +1,90 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    background-color:lightsalmon;
+    
+}
+/*------Navigation-----*/
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background-color:lightsalmon;
+}
+.navbar-nav li
+{
+    padding: 00 0px;
+    background-color:lightsalmon;
+    
+}
+.navbar-nav li a
+{
+    float: right;
+    text-align: left;
+    background-color:lightsalmon;
+}
+#nav-bar ul li a:hover{
+    color: #007bff!important;
+    background-color:lightsalmon;
+}
+.navbar
+{
+    background-color:lightsalmon;
+}
+.navbar-toggler
+{
+    border: none!important;
+    background-color:lightsalmon;
+    
+}
+.nav-link
+{
+    color: #555!important;
+    font-weight: 600;
+    font-size: 16px;
+    background-color:lightsalmon;
+}
+#navbar-text
+{
+    font-weight: 700;
+    font-size: 24px;
+    font-style: italic;
+    color: black; 
+    background-color:lightsalmon;
+}
+#cables
+{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: black;
+}
+#cables h2
+{
+    text-align: justify;
+    color: black;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.mobilestore
+{
+    font-family: sans-serif;
+    font-size: 16px;
+    text-align: justify;
+}
+#mobilestore h3
+{
+    font-family: sans-serif;
+    font-size: 18px;
+    text-align: justify;
+    color: black;
+}
+#mobilestore p
+{
+    font-family: sans-serif;
+    font-size: 18px;
+    text-align: justify;
+    color: black;
+}
